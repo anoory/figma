@@ -1,0 +1,83 @@
+.logo{
+    max-width: 1020px;
+    width: 100%;
+    color: #000;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Newsreader;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 76.8px */
+    letter-spacing: -1.28px;
+    width: 1020px;
+    height: 154px;
+    margin-top: 279px;
+    margin-bottom: 1745px;
+    margin-right: 321px;
+    margin-left: 217px;
+}
+
+.main-info{
+color: #000;
+font-feature-settings: 'clig' off, 'liga' off;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+-webkit-text-stroke-width: 1;
+-webkit-text-stroke-color: #000;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 32px */
+margin-top: 1550px;
+margin-bottom: 116px;
+margin-right: 427px;
+margin-left: 309px;
+max-width: 822px;
+width: 100%;
+font-family: 'Inter', sans-serif;
+}
+
+.main-btn{
+color: #FFF;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 130%; /* 26px */
+display: inline-flex;
+padding: 19px 32px;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+background: #426B1F;
+margin-top: 481px;
+margin-bottom: 1633px;
+margin-left: 607px;
+margin-right: 724px;
+max-width: 227px;
+width: 100%;
+}
+
+
+
+.Onion{
+ 
+    margin-top: 701px;
+    margin-bottom: 784px;
+    margin-left: 169px;
+    margin-right: 958px;
+
+}
+
+.Tomato{
+    width: 608px;
+    height: 463px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-top: 791px;
+    margin-bottom: 924px;
+    margin-left: 660px;
+    margin-right: 290px;
+}
